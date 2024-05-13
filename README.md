@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alsu-ismayilzada&label=Profile%20views&color=0e75b6&style=flat" alt="alsu-ismayilzada" /> </p>
 
-- 🔭 I’m currently working on **Restaurant-System**
+- 🔭 I’m currently working on **My Project**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **ismayilzadealsu@gmail.com**
 
